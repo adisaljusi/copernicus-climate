@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # NetCDF Extension
-.nc
+*.nc
 
 # Distribution / packaging
 .Python
